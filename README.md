@@ -37,7 +37,7 @@ seconds, minutes and hours to how many degrees the
 hand should be rotated around the clock!
 
 ```js
-secondRotation(0); // returns 0
+secondRotation(0);  // returns 0
 secondRotation(59); // returns (59 / 60) * 360
 
 hourRotation(12); // returns 0
